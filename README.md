@@ -12,6 +12,6 @@ L'application a été développée pour fonctionner sur [SWI-Prolog](http://www.
 
 Pour lancer le jeu, une fois l'application ouverte, écrivez la commande "demarrer." Le choix du scénario et les commandes sont ensuite expliquées dans le jeu. Chaque instruction doit être suivie d'un point pour être interprêtée.
 
-Ce jeu a été développé par Julien Fourcade et Fabien Monniot, reproduit d'après le jeu de plateau produit par la société Thinkfun.
+Ce jeu a été développé par Julien Fourcade et Fabien Monniot, reproduit d'après le jeu de plateau de la société Thinkfun.
 
 [Télécharger l'application](https://github.com/fabienmonniot/rushhour/zipball/master)
