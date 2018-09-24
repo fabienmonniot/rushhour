@@ -14,4 +14,4 @@ Pour lancer le jeu, une fois l'application ouverte, écrivez la commande "demarr
 
 Ce jeu a été développé par Julien Fourcade et Fabien Monniot, reproduit d'après le jeu de plateau produit par la société Thinkfun.
 
-[Télécharger l'application](https://github.com/fabienmonniot/rushhour)
+[Télécharger l'application](https://github.com/fabienmonniot/rushhour/zipball/master)
